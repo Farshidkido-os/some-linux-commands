@@ -11,3 +11,4 @@ sudo dbus-uuidget --unsure=
 ```bash
 cat /etc/machine-id
 ```
+و یدونه machine-id جدید رو میبینید
